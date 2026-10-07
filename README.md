@@ -11,7 +11,7 @@ I’m a Data Scientist focused on AI, Machine Learning, predictive modeling, and
 
 ### 🔭 Currently Working On
 
-🤖 AI/ML & Data Science projects as an Engineering Volunteer @ ASU
+🤖 AI/ML & Data Science projects 
 
 🚗 Transportation & travel behavior modeling
 
