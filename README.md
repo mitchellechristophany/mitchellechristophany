@@ -21,13 +21,7 @@ I’m a Data Scientist focused on AI, Machine Learning, predictive modeling, and
 
 ---
 
-### 🛠️ Technical Skills
-**Programming:** Python, R, SQL, PL/SQL, MongoDB  
-**Data Visualization:** Tableau, Power BI, Looker Studio, Domo 
-**Spatial/Design Tools:** AutoCAD, SketchUp, Revit, Rhino3D, ArcGIS  
-**Other:** SSMS, BIM Coordination  
-
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages:** Python • R • SQL • PL/SQL • MongoDB
 **AI/ML:** Machine Learning • Predictive Modeling • Statistical Modeling • Data Mining
