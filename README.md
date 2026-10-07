@@ -3,13 +3,21 @@
 
 
 🎓 Master’s in Data Science (Sustainable Engineering & Built Environment) @ Arizona State University (2024–2026)  
-📍 Background in Architecture + Data Analytics | Passion for Data Science, Urban Systems, and Visualization  
+🤖 Data Scientist | AI/ML | Predictive Analytics | Geospatial Data
+
+I’m a Data Scientist focused on AI, Machine Learning, predictive modeling, and data analytics, with a background in engineering, transportation, GIS, and sustainable development.
 
 ---  
 
-### 🔭 Currently Exploring
-- Transportation Data Science (Travel Behavior Modeling, Accident Heatmaps)  
-- Geospatial and GIS-based analytics for sustainable urban development  
+### 🔭 Currently Working On
+
+🤖 AI/ML & Data Science projects as an Engineering Volunteer @ ASU
+
+🚗 Transportation & travel behavior modeling
+
+🗺️ Geospatial analytics & visualization
+
+📊 Predictive modeling on large datasets
 
 ---
 
@@ -19,26 +27,47 @@
 **Spatial/Design Tools:** AutoCAD, SketchUp, Revit, Rhino3D, ArcGIS  
 **Other:** SSMS, BIM Coordination  
 
+🛠️ Tech Stack
+
+**Languages:** Python • R • SQL • PL/SQL • MongoDB
+**AI/ML:** Machine Learning • Predictive Modeling • Statistical Modeling • Data Mining
+**Data:** Pandas • MongoDB • SSMS • Excel
+**Visualization:** Tableau • Power BI • Looker Studio • Domo
+**GIS/Engineering:** ArcGIS • AutoCAD • Revit • SketchUp • Rhino3D • BIM
+
 ---
 
 ### 💼 Professional Experience
-- **Associate Analyst – Content Engineering** @ GlobalLogic (Mar 2024 – Jun 2024)  
-  - Improved content performance by **32%** through in-depth data analysis  
-  - Managed metadata and built dashboards with Looker Studio  
+**Engineering Volunteer – Data Science | Arizona State University**
+2026 – Present
+Working on data science and AI/ML projects supporting engineering applications.
 
-- **Architect** @ Struct House India Pvt Ltd (Jul 2022 – Jan 2023)  
-  - Led end-to-end project management for a **waterfront ECOPARK development**  
-  - Reduced cost by **20%** and project timeline by **30%** using sustainable strategies  
+**GIS & Data Analyst | Center for the Future of Arizona**
+2025 – 2026
+Developed predictive ML models, automated Python/SQL workflows, and dashboards handling millions of rows of data.
 
-- **Project Intern** @ L&T Construction (Jul 2021 – Nov 2021)  
-  - Optimized hardware scheduling and process efficiency by **80%**  
-  - Produced BIM reports, 3D models, and client-facing visualizations  
+**Associate Analyst – Content Engineering | GlobalLogic**
+2024
+Improved data quality by 32% through data analysis, metadata standardization, and visualization.
+
+**Architect | Struct House India**
+2022 – 2023
+Used GIS and data-driven strategies to reduce construction costs by 20% and timelines by 30%.
 
 ---
 
-### 📌 Selected Projects
+### 🚀 Featured Projects
 - **Building Energy Performance & Cost Estimation** — Analyzed BIM data for energy usage and cost optimization  
-- **Traffic Accident Heatmap** — Created geospatial visualizations of accident-prone zones using GIS data  
+- **Traffic Accident Heatmap** — Created geospatial visualizations of accident-prone zones using GIS data
+- **Advanced Choice Models & Travel Behavior** — Statistical & discrete choice modeling
+- **Activity-Travel Behavior Analysis** — NHTS 2019 data & statistical modeling
+- **Geospatial Retail Analytics in Ecuador** — Site selection & population analysis using GIS & Kaggle data
+
+---
+
+### 🎯 Interests
+
+Artificial Intelligence • Machine Learning • Generative AI • Predictive Analytics • Geospatial AI • Transportation AI • Urban Analytics
 
 ---
 
