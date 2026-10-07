@@ -4,9 +4,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![ArcGIS](https://img.shields.io/badge/ArcGIS-2070B4?style=for-the-badge&logo=esri&logoColor=white)](https://www.esri.com)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Polars](https://img.shields.io/badge/Polars-CDC8B1?style=for-the-badge&logo=polars&logoColor=black)](https://pypolars.org)
+[![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 </div>
 
@@ -14,18 +15,18 @@
 
 ### 🧬 About Me
 
-🎓 **M.S. in Data Science** (Sustainable Engineering & Built Environment) @ **Arizona State University** (2024–2026)  
-🤖 **Data Scientist & AI/ML Engineer** specializing in **Predictive Analytics, Geospatial AI (GeoAI), and Spatial Data Science**.
+🎓 **M.S. in Data Science** @ **Arizona State University** (2024–2026)  
+🤖 **Data Scientist & AI/ML Engineer** specializing in **Deep Learning, Predictive Analytics, Time-Series Transformers, and LLMOps**.
 
-I bridge artificial intelligence and machine learning with complex spatial, urban, and transportation systems—building scalable ML pipelines, predictive spatio-temporal choice models, and data-driven infrastructure analytics.
+I build production-grade machine learning pipelines, optimize deep neural architectures, and design scalable predictive models—pivoting baseline models into high-accuracy transformer pipelines and serving low-latency inference systems.
 
 ---
 
 ### 🔭 Currently Working On
 
-- 🚗 **Transportation & Travel Behavior Modeling:** Advanced statistical & discrete choice modeling on large-scale datasets (NHTS).
-- 🗺️ **Geospatial AI & Analytics:** Predictive spatio-temporal analytics, site selection, and computer vision / spatial modeling.
-- ⚡ **Large-Scale Predictive Modeling:** Designing ML pipelines for high-dimensional data across urban and built environments.
+- 🧠 **Auto-Regressive Time-Series Forecasting:** Fine-tuning Chronos Transformers via Hugging Face for high-precision structural energy modeling.
+- ⚡ **High-Throughput ML Pipelines:** Implementing parallel feature engineering using Polars and compiling tree-based models into ONNX Runtime.
+- 🤖 **Agentic & RAG Architectures:** Building multi-agent systems and semantic search engines using LangChain, LangGraph, and vector databases.
 
 ---
 
@@ -33,40 +34,38 @@ I bridge artificial intelligence and machine learning with complex spatial, urba
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `Python`, `R`, `SQL`, `PL/SQL` |
-| **AI / ML & Modeling** | `Machine Learning`, `Predictive Modeling`, `Statistical & Discrete Choice Models`, `Data Mining` |
-| **Data & Databases** | `Pandas`, `NumPy`, `MongoDB`, `SSMS`, `Excel` |
-| **Geospatial & Engineering** | `ArcGIS`, `BIM`, `AutoCAD`, `Revit`, `SketchUp`, `Rhino3D` |
-| **Visualization & BI** | `Tableau`, `Power BI`, `Looker Studio`, `Domo`, `Matplotlib`, `Seaborn` |
+| **Languages** | `Python`, `SQL`, `C++`, `R` |
+| **AI / Deep Learning** | `PyTorch`, `Transformers`, `Hugging Face`, `Chronos`, `ONNX Runtime`, `vLLM` |
+| **Machine Learning & Stats** | `Scikit-Learn`, `XGBoost`, `LightGBM`, `Statistical Modeling`, `Time-Series Analysis` |
+| **Data Engineering** | `Polars`, `Pandas`, `NumPy`, `PostgreSQL`, `MongoDB`, `Apache Arrow` |
+| **LLMOps & Vector Search** | `LangChain`, `LangGraph`, `LlamaIndex`, `Pinecone`, `Qdrant`, `pgvector` |
+| **Visualization & Reporting** | `Tableau`, `Power BI`, `Matplotlib`, `Seaborn`, `FastAPI` |
 
 ---
 
 ### 💼 Professional Experience
 
-- 🏛️ **Engineering Volunteer – Data Science** | *Arizona State University* `(2026 – Present)`
-  - Executing data science and AI/ML workflows to support engineering applications and predictive decision-making.
-- 📊 **GIS & Data Analyst** | *Center for the Future of Arizona* `(2025 – 2026)`
-  - Developed predictive ML models, automated end-to-end Python/SQL pipelines, and built executive dashboards handling millions of data points.
-- ⚙️ **Associate Analyst – Content Engineering** | *GlobalLogic* `(2024)`
-  - Improved data quality by **32%** through automated metadata standardization, exploratory data analysis, and advanced visualization.
-- 🏗️ **Architect** | *Struct House India* `(2022 – 2023)`
-  - Leveraged GIS and data-driven strategies to reduce construction costs by **20%** and cut project timelines by **30%**.
+- 🏛️ **Data Science & ML Engineering Volunteer** | *Arizona State University* `(2026 – Present)`
+  - Executing end-to-end data science and AI/ML workflows, building predictive regression models, and optimizing ML inference pipelines.
+- 📊 **Data Science & Machine Learning Analyst** | *Center for the Future of Arizona* `(2025 – 2026)`
+  - Engineered predictive ML models, automated end-to-end Python/SQL pipelines, and built executive dashboards handling millions of data points.
+- ⚙️ **Associate Analyst – Data & Content Engineering** | *GlobalLogic* `(2024)`
+  - Improved data quality by **32%** through automated metadata standardization, exploratory data analysis, and advanced data visualization.
 
 ---
 
 ### 🚀 Featured Projects
 
-- ⚡ **Building Energy Performance & Cost Estimation:** Analyzed BIM datasets using machine learning to optimize building energy consumption and cost structures.
-- 🚦 **Traffic Accident Heatmap:** Built interactive geospatial visualizations to map accident-prone hotspots using spatial cluster analysis.
-- 🚘 **Advanced Choice Models & Travel Behavior:** Applied statistical and discrete choice modeling techniques to evaluate travel decision dynamics.
-- 📊 **Activity-Travel Behavior Analysis:** Analyzed NHTS datasets to model activity-travel patterns using predictive statistical frameworks.
-- 📍 **Geospatial Retail Analytics in Ecuador:** Implemented GIS and spatial data algorithms for site selection and demographic risk analysis.
+- 🔮 **Building Energy Performance & Time-Series Forecasting Engine:** Engineered a predictive framework by fine-tuning an auto-regressive Chronos Transformer on Hugging Face, resolving Phase 2 accuracy bottlenecks and boosting performance score from 30 to 82.
+- 🚘 **Activity-Travel Behavioral Analytics (NHTS Dataset):** Developed a statistical modeling pipeline on large-scale 2019 pre-COVID baseline data to evaluate travel behavior and standardize high-volume feature sets.
+- 📍 **Retail Expansion Catchment Analytics:** Built a population catchment analytics engine evaluating customer density and spatial metrics to optimize site selection.
+- 🛡️ **Edge Sensor Anomaly Detection Runtime:** Compiled tree-based anomaly models to ONNX Runtime for low-latency execution on high-frequency telemetry data streams.
 
 ---
 
 ### 🎯 Key Focus Areas
 
-`Artificial Intelligence` • `Machine Learning` • `Generative AI` • `Predictive Analytics` • `Geospatial AI (GeoAI)` • `Transportation AI` • `Urban Analytics`
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Predictive Analytics` • `LLMOps` • `Time-Series Forecasting` • `Generative AI`
 
 ---
 
