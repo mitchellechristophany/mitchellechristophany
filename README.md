@@ -70,17 +70,6 @@ I bridge artificial intelligence and machine learning with complex spatial, urba
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mitchellechristophany&show_icons=true&theme=dark&rank_icon=percentile&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchellechristophany&layout=compact&theme=dark&hide=html,css" width="48%" />
-
-</div>
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
