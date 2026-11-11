@@ -77,3 +77,4 @@ I build production-grade machine learning pipelines, optimize deep neural archit
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchris89@asu.edu)
 
 </div>
+
